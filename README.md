@@ -1,2 +1,2 @@
-# NetCoreRabbirMQ
+# NetCoreRabbitMQ
 .net core RabbitMq Entitycore
