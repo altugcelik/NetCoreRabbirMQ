@@ -1,0 +1,17 @@
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\bin\Debug\net7.0\RabbitMQCustomer.ConsoleApp.exe
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\bin\Debug\net7.0\RabbitMQCustomer.ConsoleApp.deps.json
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\bin\Debug\net7.0\RabbitMQCustomer.ConsoleApp.runtimeconfig.json
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\bin\Debug\net7.0\RabbitMQCustomer.ConsoleApp.dll
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\bin\Debug\net7.0\RabbitMQCustomer.ConsoleApp.pdb
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\obj\Debug\net7.0\RabbitMQCustomer.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\obj\Debug\net7.0\RabbitMQCustomer.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\obj\Debug\net7.0\RabbitMQCustomer.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\obj\Debug\net7.0\RabbitMQCustomer.ConsoleApp.AssemblyInfo.cs
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\obj\Debug\net7.0\RabbitMQCustomer.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\obj\Debug\net7.0\RabbitMQCustomer.ConsoleApp.csproj.CopyComplete
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\obj\Debug\net7.0\RabbitMQCustomer.ConsoleApp.dll
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\obj\Debug\net7.0\refint\RabbitMQCustomer.ConsoleApp.dll
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\obj\Debug\net7.0\RabbitMQCustomer.ConsoleApp.pdb
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\obj\Debug\net7.0\RabbitMQCustomer.ConsoleApp.genruntimeconfig.cache
+C:\Users\altug.celik\OneDrive - Fineksus\Desktop\sample\NetCoreRabbitMQ\RabbitMqCustomerAPI\RabbitMQCustomer.ConsoleApp\obj\Debug\net7.0\ref\RabbitMQCustomer.ConsoleApp.dll
