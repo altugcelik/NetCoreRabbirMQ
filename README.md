@@ -1,2 +1,2 @@
 # NetCoreRabbitMQ
-.net core RabbitMq Entitycore
+.net core RabbitMq Entitycore, Codefirst sample
